@@ -1,4 +1,4 @@
-# Title: Age Estimation Using 12-Lead ECG Based on Deep Learning
+# Age Estimation Using 12-Lead ECG Based on Deep Learning
 
 ## Introduction:
 This project participated in the MAIC ECG AI Challenge 2023, which was centered around the development of age prediction models using electrocardiogram (ECG) data. The project achieved impressive results, solely relying on a deep learning network without any additional data or preprocessing.
