@@ -2,6 +2,10 @@
 
 ## Introduction:
 This project participated in the MAIC ECG AI Challenge 2023, which was centered around the development of age prediction models using electrocardiogram (ECG) data. The project achieved impressive results, solely relying on a deep learning network without any additional data or preprocessing.
+https://maic.or.kr/competitions/26/infomation
+
+## Architecture
+<center><img src = "https://github.com/JaeBinCHA7/Age-Estimation-Using-12-Lead-ECG-Based-on-Deep-Learning/assets/87358781/7c142e0c-94dd-4004-a869-95935f0f44eb" width="100%" height="100%"></center>
 
 ## Project Structure:
 
@@ -61,3 +65,11 @@ This project participated in the MAIC ECG AI Challenge 2023, which was centered 
 
   Run the command:
   * python test_interface.py
+
+## References   
+**[1] Hwang, Seorim, et al. "Multi-Label Abnormality Classification from 12-Lead ECG Using A 2D Residual U-Net." ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024.** [[paper]](https://ieeexplore.ieee.org/abstract/document/10448259)  [[code]](https://github.com/seorim0/ResUNet-LC)   
+**[2] Hwang, Seorim, et al. "Multi-label ECG Abnormality Classification Using A Combined ResNet-DenseNet Architecture with ResU Blocks." 2023 IEEE EMBS Special Topic Conference on Data Science and Engineering in Healthcare, Medicine and Biology. IEEE, 2023.** [[paper]](https://ieeexplore.ieee.org/abstract/document/10404234)
+[[code]](https://github.com/seorim0/Multi-label-12-lead-ECG-abnormality-classification)   
+## Contact  
+E-mail: jbcha7@yonsei.ac.kr
+
